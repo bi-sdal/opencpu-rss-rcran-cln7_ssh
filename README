@@ -1,0 +1,3 @@
+# OPENCPU for SDAL
+
+This repo uses the SDAL rpkg container to build an opencpu server with rstudio.
