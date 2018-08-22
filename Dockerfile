@@ -1,4 +1,4 @@
-FROM sdal/rss-mro-c7sd_auth
+FROM sdal/rss-rcran-c7sd_auth
 
 ENV BRANCH 2.0.8
 
